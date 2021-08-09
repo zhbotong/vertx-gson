@@ -1,0 +1,6 @@
+= Vertx-gson
+
+Replace Jackson with Gson in Vert.x
+
+Zh Blog url:https://zhangbotong.com/replace-jackson-with-gson-in-vertx/
+
